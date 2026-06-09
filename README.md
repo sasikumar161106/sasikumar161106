@@ -2,9 +2,11 @@
 <div align="center">
   <img src="https://media.tenor.com/PZzK5HnU2eUAAAAi/ender-dragon-minecraft.gif" width="180" alt="Minecraft Ender Dragon"/>
   <br/>
+  <img src="https://media.tenor.com/kHcmsxlKHEAAAAAi/minecraft-minecraft-creeper.gif" width="40" alt="Minecraft Creeper"/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sasikumar+S;Software+Developer+%7C+AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
+  <img src="https://media.tenor.com/kHcmsxlKHEAAAAAi/minecraft-minecraft-creeper.gif" width="40" alt="Minecraft Creeper"/>
 </div>
 
 <!-- RESUME + SOCIAL LINKS -->
