@@ -1,24 +1,9 @@
-<!-- MINECRAFT DRAGON HEADER -->
+<!-- MINECRAFT ANIMATED HEADER -->
 <div align="center">
-  <img src="https://media.tenor.com/PZzK5HnU2eUAAAAi/ender-dragon-minecraft.gif" width="220" alt="Minecraft Ender Dragon"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=SASIKUMAR%20S&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
 </div>
-
-<!-- ANIMATED PROFILE PIC -->
 <div align="center">
-  <a href="https://sasikumar1630portfolio.vercel.app/">
-    <img src="https://github.com/sasikumar161106/sasikumar161106/blob/main/profile.jpg?raw=true" width="160" height="160" style="border-radius:50%; object-fit:cover;" alt="Sasikumar S"/>
-  </a>
-</div>
-
-<!-- NAME & ROLE — SINGLE INSTANCE -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Sasikumar+S" alt="Name" />
-  </a>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=650&lines=Software+Developer+%7C+AI+Engineer+%7C+Open+Source+Contributor" alt="Roles" />
-  </a>
+  <img src="https://media.tenor.com/PZzK5HnU2eUAAAAi/ender-dragon-minecraft.gif" width="180" alt="Minecraft Ender Dragon"/>
 </div>
 
 <!-- RESUME + SOCIAL LINKS -->
@@ -208,24 +193,7 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 | ![Best](https://img.shields.io/badge/Best-C0C0C0?style=flat-square) | **First Project Award** | Awarded for excellence in designing and implementing an IoT-based Smart Water Quality Monitoring System. |
 | ![Pub](https://img.shields.io/badge/Pub-58A6FF?style=flat-square) | **Published Research Paper** | "AI Powered IoT Platform for Water Quality Monitoring and Weather Condition Analysis" — 3rd Intl. Conf. on Advances in AI and ML in Big Data Processing. |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar161106&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasikumar161106&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasikumar161106&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=58A6FF" width="95%" alt="Activity Graph"/>
-</div>
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=120&section=footer" width="100%"/>
