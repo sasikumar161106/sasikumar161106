@@ -1,9 +1,10 @@
 <!-- MINECRAFT ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=SASIKUMAR%20S&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
-</div>
-<div align="center">
   <img src="https://media.tenor.com/PZzK5HnU2eUAAAAi/ender-dragon-minecraft.gif" width="180" alt="Minecraft Ender Dragon"/>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sasikumar+S;Software+Developer+%7C+AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- RESUME + SOCIAL LINKS -->
