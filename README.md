@@ -200,13 +200,12 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 ## GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/sasikumar161106">
-    <img src="https://github-readme-stats.vercel.app/api?username=sasikumar161106&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sasikumar161106">
-    <img src="https://streak-stats.demolab.com?user=sasikumar161106&theme=transparent&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8B949E&dates=8B949E&currStreakNum=00d4ff&sideNums=00d4ff&background=0d1117" width="48%" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar161106&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true&card_width=450" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=sasikumar161106&theme=transparent&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8B949E&dates=8B949E&currStreakNum=00d4ff&sideNums=00d4ff&background=0d1117&card_width=450" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar161106&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&card_width=400" width="38%" alt="Top Languages"/>
 </div>
 
 <div align="center">
