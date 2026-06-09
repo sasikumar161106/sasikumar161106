@@ -194,6 +194,27 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 | ![Pub](https://img.shields.io/badge/Pub-58A6FF?style=flat-square) | **Published Research Paper** | "AI Powered IoT Platform for Water Quality Monitoring and Weather Condition Analysis" — 3rd Intl. Conf. on Advances in AI and ML in Big Data Processing. |
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/sasikumar161106">
+    <img src="https://github-readme-stats.vercel.app/api?username=sasikumar161106&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sasikumar161106">
+    <img src="https://streak-stats.demolab.com?user=sasikumar161106&theme=transparent&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8B949E&dates=8B949E&currStreakNum=00d4ff&sideNums=00d4ff&background=0d1117" width="48%" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasikumar161106&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=58A6FF&area=true&area_color=00d4ff" width="95%" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=120&section=footer" width="100%"/>
