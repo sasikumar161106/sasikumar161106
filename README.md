@@ -1,12 +1,12 @@
 <!-- MINECRAFT ANIMATED HEADER -->
 <div align="center">
-  <img src="https://media.tenor.com/PZzK5HnU2eUAAAAi/ender-dragon-minecraft.gif" width="180" alt="Minecraft Ender Dragon"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16b05f" width="180" alt="Minecraft Dragon"/>
   <br/>
-  <img src="https://media.tenor.com/kHcmsxlKHEAAAAAi/minecraft-minecraft-creeper.gif" width="40" alt="Minecraft Creeper"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577e2f4-df40-4f98-8f21-e4be0e9e8f5f" width="35" alt="Minecraft"/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sasikumar+S;Software+Developer+%7C+AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-  <img src="https://media.tenor.com/kHcmsxlKHEAAAAAi/minecraft-minecraft-creeper.gif" width="40" alt="Minecraft Creeper"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577e2f4-df40-4f98-8f21-e4be0e9e8f5f" width="35" alt="Minecraft"/>
 </div>
 
 <!-- RESUME + SOCIAL LINKS -->
@@ -201,22 +201,25 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 
 ## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar161106&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true&card_width=450" width="49%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=sasikumar161106&theme=transparent&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8B949E&dates=8B949E&currStreakNum=00d4ff&sideNums=00d4ff&background=0d1117&card_width=450" width="49%" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar161106&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar161106&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&card_width=400" width="38%" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sasikumar161106&theme=transparent&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8B949E&dates=8B949E&currStreakNum=00d4ff&sideNums=00d4ff&background=0d1117" width="100%" alt="GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasikumar161106&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=58A6FF&area=true&area_color=00d4ff" width="95%" alt="Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar161106&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="45%" alt="Top Languages"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasikumar161106&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=58A6FF&area=true&area_color=00d4ff" width="100%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
-</div>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=120&section=footer" width="100%"/>
