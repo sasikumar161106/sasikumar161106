@@ -1,12 +1,14 @@
-<!-- MINECRAFT ANIMATED HEADER -->
+<!-- ANIMATED MINECRAFT HEADER -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16b05f" width="180" alt="Minecraft Dragon"/>
-  <br/>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577e2f4-df40-4f98-8f21-e4be0e9e8f5f" width="35" alt="Minecraft"/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sasikumar+S;Software+Developer+%7C+AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577e2f4-df40-4f98-8f21-e4be0e9e8f5f" width="35" alt="Minecraft"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&section=header&text=SASIKUMAR%20S&fontSize=55&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=16&descAlign=50&fontFamily=monospace" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="75"/>
 </div>
 
 <!-- RESUME + SOCIAL LINKS -->
