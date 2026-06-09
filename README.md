@@ -1,7 +1,4 @@
-<!-- ANIMATED MINECRAFT HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&section=header&text=SASIKUMAR%20S&fontSize=55&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=16&descAlign=50&fontFamily=monospace" width="100%"/>
-</div>
+<!-- ANIMATED HEADER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75"/>
