@@ -34,6 +34,7 @@
 
 <a href="https://edulinkup.dev/elusoc/profile/sasikumar161106">
   <img src="https://edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
+  <img src="https://edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
