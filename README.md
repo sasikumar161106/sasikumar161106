@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=My+GitHub+Profile" alt="My GitHub Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=My+GitHub+Profile" alt="My GitHub Profile" />
 </div>
 <div align="center">
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sasikumar+S;Software+Developer+%7C+AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sasikumar+S;Software+Developer+%7C+AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
