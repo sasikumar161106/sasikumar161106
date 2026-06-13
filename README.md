@@ -195,12 +195,6 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 
 ## Achievements
 
-### My ELUSOC 2026 Badges!
-
-<a href="https://edulinkup.dev/elusoc/profile/sasikumar161106">
-  <img src="https://edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
-</a>
-
 | | Achievement | Details |
 |:-:|-------------|---------|
 | ![1st](https://img.shields.io/badge/1st-FFD700?style=flat-square) | **Smart India Hackathon — 1st Place** | Secured 1st Place in the internal SIH for the Smart Tourist Monitoring and Incidence Response System. |
