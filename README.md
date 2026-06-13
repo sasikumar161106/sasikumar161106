@@ -193,6 +193,15 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## Open Source Contributions
+
+- **[itzzavdhesh/TabTwin]** [Implementing Authentication for TabTwin](https://github.com/itzzavdhesh/TabTwin/pull/37)
+
+<!-- PR_SECTION_START -->
+<!-- PR_SECTION_END -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## Achievements
 
 | | Achievement | Details |
