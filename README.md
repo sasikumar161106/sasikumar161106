@@ -1,110 +1,118 @@
-<!-- HEADER -->
+<!-- ANIMATED HEADER -->
 <div align="center">
-  <h1>Hi, I'm Sasikumar S 👋</h1>
-  <h3>Software Developer | AI Engineer | Open Source Contributor</h3>
-  
-  <p>
-    <a href="https://github.com/sasikumar161106/sasikumar161106/raw/main/Sasikumar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
-    <a href="https://sasikumar1630portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://github.com/sasikumar161106"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://linkedin.com/in/sasikumarsenthil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://leetcode.com/u/ssk_codes/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="75"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="75"/>
+</div>
+<div align="center">
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sasikumar+S;Software+Developer+%7C+AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<!-- RESUME + SOCIAL LINKS -->
+<div align="center">
+  <a href="https://github.com/sasikumar161106/sasikumar161106/raw/main/Sasikumar_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>&nbsp;
+  <a href="https://sasikumar1630portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://github.com/sasikumar161106">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/sasikumarsenthil">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/ssk_codes/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</div>
 
-### 🛡️ Badges
-<a href="https://edulinkup.dev/elusoc/profile/sasikumar161106">
-  <img src="https://edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
-</a>
-<!-- TODO: Add the new badge here. Please provide the link or markdown for the badge! -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-### 👨‍💻 About Me
+## About Me
 
 ```yaml
 Name:       Sasikumar S
 Location:   Chennai, Tamil Nadu, India
-Education:  B.E. Computer Science and Engineering (9.01/10)
 University: Vel Tech HighTech Dr. Rangarajan Dr. Sakunthala Engineering College
-Email:      sasikumarldrago@gmail.com
 ```
 
 Computer Science undergraduate with hands-on experience in designing and developing **AI agents, IoT-based systems, and cross-platform mobile applications**. Strong foundation in machine learning, agentic AI, cloud computing, and software development.
 
-- 🔭 Currently contributing to open-source projects and building autonomous AI systems
-- 💻 Core expertise in **Python, Flutter, React.js, and Agentic AI**
+- Currently contributing to open-source projects and building autonomous AI systems
+- Core expertise in **Python, Flutter, React.js, and Agentic AI**
+- Reach me at **sasikumarldrago@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛠️ Tools & Technologies
+## Education
 
-<details>
-<summary><b>Languages</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
-</details>
+| Degree | Institution | Duration | CGPA |
+|--------|-------------|----------|------|
+| **B.E. — Computer Science and Engineering** | Vel Tech HighTech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai | Sep 2024 – Jun 2028 | **9.01 / 10** |
 
-<details>
-<summary><b>Frameworks & Libraries</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB" alt="Express.js" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<details>
-<summary><b>Tools & Platforms</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-</details>
+## Tools & Skills
 
-<details open>
-<summary><b>Core Domains</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/AI_%26_Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI/ML" />
-<img src="https://img.shields.io/badge/Agentic_AI-7B2FF7?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/Internet_of_Things-00979D?style=flat-square&logo=arduino&logoColor=white" alt="IoT" />
-<img src="https://img.shields.io/badge/Mobile_App_Dev-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Mobile Dev" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/DSA-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116" alt="DSA" />
-</p>
-</details>
+<div align="center">
 
----
+**Languages**
 
-### 💼 Experience
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Core Domains**
+
+![AI/ML](https://img.shields.io/badge/AI_%26_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white)
+![IoT](https://img.shields.io/badge/Internet_of_Things-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Mobile Dev](https://img.shields.io/badge/Mobile_App_Dev-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Experience
 
 | Duration | Role | Organization |
 |----------|------|--------------|
@@ -112,93 +120,111 @@ Computer Science undergraduate with hands-on experience in designing and develop
 | `May 2026 - Present` | **Open Source Contributor** | **EduLinkUp (ELUSOC)** — Implemented features and resolved issues through consistent PR contributions. |
 | `May 2026 - Present` | **Open Source Contributor** | **Reskilll (SSoC)** — Contributing to India's largest open-source program through collaborative development. |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [DocSync — AI Documentation Agent](https://github.com/sasikumar161106)
+### DocSync — AI Documentation Agent
 An AI Agent that integrates with GitHub to analyze code and auto-generate structured technical documentation within CI/CD pipelines.
 
 `React.js` `Node.js` `Express.js` `Gemini 2.5 Flash` `Tailwind CSS`
 
+[![GitHub](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/sasikumar161106)
+
 </td>
 <td width="50%" valign="top">
 
-#### [LogiSync AI — Supply Chain Control Tower](https://github.com/sasikumar161106)
+### LogiSync AI — Supply Chain Control Tower
 An intelligent multi-agent AI platform for automotive MSMEs that monitors supply chain data, predicts shortages, and drafts resolution strategies.
 
 `Flutter` `Kotlin` `Python` `PostgreSQL` `Multi-Agent Systems`
 
+[![GitHub](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/sasikumar161106)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [Smart Tourist Monitoring System](https://github.com/sasikumar161106/Tourist-mobile-app.git)
+### Smart Tourist Monitoring System
 AI-based tourist safety system with real-time location tracking, four AI models for intelligent companionship, route optimization, and risk prediction.
 
 `Flutter` `Dart` `TensorFlow` `Scikit-Learn` `IoT`
 
+[![GitHub](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/sasikumar161106/Tourist-mobile-app.git)
+
 </td>
 <td width="50%" valign="top">
 
-#### [Smart Water Quality Monitoring](https://github.com/sasikumar161106/Bluvera--A_Smart_Application_For_Water_Quality_Monitoring.git)
+### Smart Water Quality Monitoring
 IoT system combining real-time weather API data with sensor readings, TinyML AI model for offline prediction, and Flutter app with cloud analytics.
 
 `Flutter` `Dart` `TinyML` `GCP` `IoT`
+
+[![GitHub](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/sasikumar161106/Bluvera--A_Smart_Application_For_Water_Quality_Monitoring.git)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [AI-Powered Code Review Assistant](https://github.com/sasikumar161106/AI_Powered_Code_Review_Assistant.git)
+### AI-Powered Code Review Assistant
 An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, vulnerabilities, and performance bottlenecks.
 
 `Python` `FastAPI` `Docker` `GitHub API` `LLM`
 
+[![GitHub](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/sasikumar161106/AI_Powered_Code_Review_Assistant.git)
+
 </td>
 <td width="50%" valign="top">
-<br/>
 <div align="center">
+  <br/>
   <a href="https://github.com/sasikumar161106?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-181717?style=flat-square&logo=github&logoColor=white" alt="All Projects"/>
+    <img src="https://img.shields.io/badge/View_All_Projects-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff" alt="All Projects"/>
   </a>
 </div>
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🏆 Achievements
+## Achievements
 
 | | Achievement | Details |
 |:-:|-------------|---------|
-| 🥇 | **Smart India Hackathon — 1st Place** | Secured 1st Place in the internal SIH for the Smart Tourist Monitoring and Incidence Response System. |
-| 🥈 | **First Project Award** | Awarded for excellence in designing and implementing an IoT-based Smart Water Quality Monitoring System. |
-| 📚 | **Published Research Paper** | "AI Powered IoT Platform for Water Quality Monitoring and Weather Condition Analysis" — 3rd Intl. Conf. on Advances in AI and ML in Big Data Processing. |
+| ![1st](https://img.shields.io/badge/1st-FFD700?style=flat-square) | **Smart India Hackathon — 1st Place** | Secured 1st Place in the internal SIH for the Smart Tourist Monitoring and Incidence Response System. |
+| ![Best](https://img.shields.io/badge/Best-C0C0C0?style=flat-square) | **First Project Award** | Awarded for excellence in designing and implementing an IoT-based Smart Water Quality Monitoring System. |
+| ![Pub](https://img.shields.io/badge/Pub-58A6FF?style=flat-square) | **Published Research Paper** | "AI Powered IoT Platform for Water Quality Monitoring and Weather Condition Analysis" — 3rd Intl. Conf. on Advances in AI and ML in Big Data Processing. |
 
----
 
-### 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar161106&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=sasikumar161106&theme=transparent&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8B949E&dates=8B949E&currStreakNum=00d4ff&sideNums=00d4ff&background=0d1117" width="48%" alt="GitHub Streak"/>
-</div>
+## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar161106&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sasikumar161106&theme=transparent&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8B949E&dates=8B949E&currStreakNum=00d4ff&sideNums=00d4ff&background=0d1117" width="100%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar161106&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="45%" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasikumar161106&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=58A6FF&area=true&area_color=00d4ff" width="100%" alt="Activity Graph"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
-</div>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=120&section=footer" width="100%"/>
