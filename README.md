@@ -194,8 +194,8 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 - **[itzzavdhesh/TabTwin]** [Implementing Authentication for TabTwin](https://github.com/itzzavdhesh/TabTwin/pull/37)
 
 <!-- PR_SECTION_START -->
-- **[vanshika114/Chaptered]** [feat: migrate HTML designs to React, setup Router and Zustand](https://github.com/vanshika114/Chaptered/pull/13) - Merged on 2026-06-13
-- **[vanshika114/Chaptered]** [Project setup: Scaffold React frontend and Express backend](https://github.com/vanshika114/Chaptered/pull/12) - Merged on 2026-06-11
+- **[vanshika114/Ch.aptered]** [feat: migrate HTML designs to React, setup Router and Zustand](https://github.com/vanshika114/Ch.aptered/pull/13) - Merged on 2026-06-13
+- **[vanshika114/Ch.aptered]** [Project setup: Scaffold React frontend and Express backend](https://github.com/vanshika114/Ch.aptered/pull/12) - Merged on 2026-06-11
 
 <!-- PR_SECTION_END -->
 
