@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="typing-banner.gif" width="100%" alt="Typing Banner" />
+  <img src="https://raw.githubusercontent.com/sasikumar161106/sasikumar161106/main/typing-banner.gif" width="100%" alt="Typing Banner" />
 </div>
 
 <div align="center">
