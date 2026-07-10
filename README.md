@@ -191,10 +191,6 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasikumar161106&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=58A6FF&area=true&area_color=00d4ff" width="100%" alt="Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=120&section=footer" width="100%"/>
 </div>
