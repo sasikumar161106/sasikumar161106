@@ -12,19 +12,19 @@
 <!-- RESUME + SOCIAL LINKS -->
 <div align="center">
   <a href="https://github.com/sasikumar161106/sasikumar161106/raw/main/Sasikumar_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-  </a>&nbsp;
+    <img src="https://cdn.simpleicons.org/adobeacrobatreader" width="35" height="35" alt="Resume"/>
+  </a>&nbsp;&nbsp;
   <a href="https://sasikumar1630portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;
+    <img src="https://cdn.simpleicons.org/vercel/white" width="35" height="35" alt="Portfolio"/>
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/sasikumar161106">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>&nbsp;
+    <img src="https://cdn.simpleicons.org/github/white" width="35" height="35" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sasikumarsenthil">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
+    <img src="https://cdn.simpleicons.org/linkedin" width="35" height="35" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ssk_codes/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode" width="35" height="35" alt="LeetCode"/>
   </a>
 </div>
 
