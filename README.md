@@ -37,7 +37,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasikumar161106&color=00d4ff&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sasikumar161106&color=00d4ff&style=flat-square&label=%F0%9F%91%A4%20Views" alt="Profile Views"/>
 </p>
 <br/>
 
