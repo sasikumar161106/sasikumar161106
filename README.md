@@ -75,18 +75,6 @@ Computer Science undergraduate with hands-on experience in designing and develop
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,java,cpp,js,dart,html,css,postgres,sqlite,flutter,react,nodejs,express,tensorflow,sklearn,fastapi,tailwind,git,github,firebase,supabase,docker,vercel,gcp,vscode,androidstudio,arduino" />
 </a>
-
-<br/><br/>
-
-**Core Domains**
-
-![AI/ML](https://img.shields.io/badge/AI_%26_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white)
-![IoT](https://img.shields.io/badge/Internet_of_Things-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Mobile Dev](https://img.shields.io/badge/Mobile_App_Dev-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
-
 </div>
 
 
