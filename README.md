@@ -40,9 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<details open>
-<summary><img src="tabs/about_me.svg" alt="About Me" width="600" /></summary>
-<br/>
+## About Me
 
 ```yaml
 Name:       Sasikumar S
@@ -55,24 +53,18 @@ Computer Science undergraduate with hands-on experience in designing and develop
 - Currently contributing to open-source projects and building autonomous AI systems
 - Core expertise in **Python, Flutter, React.js, and Agentic AI**
 - Reach me at **sasikumarldrago@gmail.com**
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<details>
-<summary><img src="tabs/education.svg" alt="Education" width="600" /></summary>
-<br/>
+## Education
 
 | Degree | Institution | Duration | CGPA |
 |--------|-------------|----------|------|
 | **B.E. — Computer Science and Engineering** | Vel Tech HighTech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai | Sep 2024 – Jun 2028 | **9.01 / 10** |
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<details>
-<summary><img src="tabs/skills.svg" alt="Tools &amp; Skills" width="600" /></summary>
-<br/>
+## Tools & Skills
 
 <div align="center">
 
@@ -127,9 +119,7 @@ Computer Science undergraduate with hands-on experience in designing and develop
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<details>
-<summary><img src="tabs/projects.svg" alt="Projects" width="600" /></summary>
-<br/>
+## Projects
 
 <table>
 <tr>
@@ -197,13 +187,10 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 </td>
 </tr>
 </table>
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<details>
-<summary><img src="tabs/contributions.svg" alt="Open Source Contributions" width="600" /></summary>
-<br/>
+## Open Source Contributions
 
 - **[itzzavdhesh/TabTwin]** [Implementing Authentication for TabTwin](https://github.com/itzzavdhesh/TabTwin/pull/37)
 
@@ -212,27 +199,21 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 - **[vanshika114/Ch.aptered]** [Project setup: Scaffold React frontend and Express backend](https://github.com/vanshika114/Ch.aptered/pull/12) - Merged on 2026-06-11
 
 <!-- PR_SECTION_END -->
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<details>
-<summary><img src="tabs/achievements.svg" alt="Achievements" width="600" /></summary>
-<br/>
+## Achievements
 
 | | Achievement | Details |
 |:-:|-------------|---------|
 | ![1st](https://img.shields.io/badge/1st-FFD700?style=flat-square) | **Smart India Hackathon — 1st Place** | Secured 1st Place in the internal SIH for the Smart Tourist Monitoring and Incidence Response System. |
 | ![Best](https://img.shields.io/badge/Best-C0C0C0?style=flat-square) | **First Project Award** | Awarded for excellence in designing and implementing an IoT-based Smart Water Quality Monitoring System. |
 | ![Pub](https://img.shields.io/badge/Pub-58A6FF?style=flat-square) | **Published Research Paper** | "AI Powered IoT Platform for Water Quality Monitoring and Weather Condition Analysis" — 3rd Intl. Conf. on Advances in AI and ML in Big Data Processing. |
-</details>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<details>
-<summary><img src="tabs/analytics.svg" alt="GitHub Analytics" width="600" /></summary>
-<br/>
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sasikumar161106&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
@@ -253,7 +234,6 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
 </p>
-</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=120&section=footer" width="100%"/>
