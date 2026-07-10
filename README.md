@@ -12,17 +12,17 @@
 <!-- RESUME + SOCIAL LINKS -->
 <div align="center">
   <a href="https://github.com/sasikumar161106/sasikumar161106/raw/main/Sasikumar_Resume.pdf">
-    <img src="https://cdn.simpleicons.org/adobeacrobatreader" width="35" height="35" alt="Resume"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios-glyphs/35/ffffff/download.png" width="35" height="35" alt="Resume"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sasikumar1630portfolio.vercel.app/">
     <img src="https://cdn.simpleicons.org/vercel/white" width="35" height="35" alt="Portfolio"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sasikumar161106">
     <img src="https://cdn.simpleicons.org/github/white" width="35" height="35" alt="GitHub"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sasikumarsenthil">
-    <img src="https://cdn.simpleicons.org/linkedin" width="35" height="35" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ssk_codes/">
     <img src="https://cdn.simpleicons.org/leetcode" width="35" height="35" alt="LeetCode"/>
   </a>
@@ -31,6 +31,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sasikumar161106&color=00d4ff&style=flat-square" alt="Profile Views"/>
 </p>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
