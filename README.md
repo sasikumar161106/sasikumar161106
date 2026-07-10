@@ -16,6 +16,8 @@
 
 <!-- RESUME + SOCIAL LINKS -->
 <div align="center">
+  <h3>🤝 Connect with me</h3>
+  <br/>
   <a href="https://github.com/sasikumar161106/sasikumar161106/raw/main/Sasikumar_Resume.pdf">
     <img src="https://img.icons8.com/ios-glyphs/35/ffffff/download.png" width="35" height="35" alt="Resume"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
