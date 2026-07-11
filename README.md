@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=My+GitHub+Profile" alt="Welcome TO My GitHub Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile" alt="Welcome to My GitHub Profile" />
 </div>
 
 <div align="center">
