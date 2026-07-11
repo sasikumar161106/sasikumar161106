@@ -43,7 +43,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### My Open Source Contributions Badges!
+### My Open Source Contribution Badges!
 
 <a href="https://edulinkup.dev/elusoc/profile/sasikumar161106">
   <img src="https://edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
