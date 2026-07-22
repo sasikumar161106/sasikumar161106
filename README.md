@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sasikumar161106/sasikumar161106/main/typing-banner.gif" width="600" alt="Typing Banner" />
+  <img src="divider.gif" width="600" alt="Divider GIF" />
 </div>
 
 <div align="center">
@@ -170,6 +170,19 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 | ![Best](https://img.shields.io/badge/Best-C0C0C0?style=flat-square) | **First Project Award** | Awarded for excellence in designing and implementing an IoT-based Smart Water Quality Monitoring System. |
 | ![Pub](https://img.shields.io/badge/Pub-58A6FF?style=flat-square) | **Published Research Paper** | "AI Powered IoT Platform for Water Quality Monitoring and Weather Condition Analysis" — 3rd Intl. Conf. on Advances in AI and ML in Big Data Processing. |
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Recent Pull Requests
+
+<!-- PR_SECTION_START -->
+- **[itzzavdhesh/TabTwin]** [fix: separate main and app components](https://github.com/itzzavdhesh/TabTwin/pull/45) - Merged on 2026-07-20
+- **[itzzavdhesh/TabTwin]** [fix: add dotenv dependency to load .env file for server configuration](https://github.com/itzzavdhesh/TabTwin/pull/34) - Merged on 2026-07-20
+- **[itzzavdhesh/TabTwin]** [docs: add extension popup build step to README](https://github.com/itzzavdhesh/TabTwin/pull/36) - Merged on 2026-07-19
+- **[itzzavdhesh/TabTwin]** [fix: restrict CORS to allowed origins](https://github.com/itzzavdhesh/TabTwin/pull/47) - Merged on 2026-07-14
+- **[itzzavdhesh/TabTwin]** [fix: enforce guest action permissions on server and content script](https://github.com/itzzavdhesh/TabTwin/pull/38) - Merged on 2026-07-14
+
+<!-- PR_SECTION_END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
