@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="divider.gif" width="800" height="120" alt="Divider GIF" />
+  <img src="divider.gif" width="800" height="250" alt="Divider GIF" />
 </div>
 
 <div align="center">
