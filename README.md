@@ -176,11 +176,11 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 ## Recent Pull Requests
 
 <!-- PR_SECTION_START -->
+- **[itzzavdhesh/TabTwin]** [fix: API and WebSocket authentication](https://github.com/itzzavdhesh/TabTwin/pull/46) - Merged on 2026-07-22
 - **[itzzavdhesh/TabTwin]** [fix: separate main and app components](https://github.com/itzzavdhesh/TabTwin/pull/45) - Merged on 2026-07-20
 - **[itzzavdhesh/TabTwin]** [fix: add dotenv dependency to load .env file for server configuration](https://github.com/itzzavdhesh/TabTwin/pull/34) - Merged on 2026-07-20
 - **[itzzavdhesh/TabTwin]** [docs: add extension popup build step to README](https://github.com/itzzavdhesh/TabTwin/pull/36) - Merged on 2026-07-19
 - **[itzzavdhesh/TabTwin]** [fix: restrict CORS to allowed origins](https://github.com/itzzavdhesh/TabTwin/pull/47) - Merged on 2026-07-14
-- **[itzzavdhesh/TabTwin]** [fix: enforce guest action permissions on server and content script](https://github.com/itzzavdhesh/TabTwin/pull/38) - Merged on 2026-07-14
 
 <!-- PR_SECTION_END -->
 
