@@ -8,6 +8,13 @@
   <img src="typing-banner.gif" width="600" alt="Typing Banner" />
 </div>
 
+<div align="center">
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sasikumar+S;Software+Developer+%7C+AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
+
 <!-- RESUME + SOCIAL LINKS -->
 <div align="center">
   <h3>🤝 Connect with me</h3>
