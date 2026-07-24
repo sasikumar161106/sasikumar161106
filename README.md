@@ -49,6 +49,7 @@
   <img src="https://edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
   <img src="https://edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="60" alt="Iron Developer" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="60" alt="Gold Engineer" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
