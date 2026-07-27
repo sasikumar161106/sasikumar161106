@@ -53,6 +53,17 @@
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/gold_engineer.png" width="60" alt="Gold Engineer" />
 </a>
 
+<br/>
+
+### AWS Badges
+
+<a href="https://www.credly.com/badges/4780a2f5-bde7-4f06-87b5-727d9d4b226d" target="_blank">
+  <img src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/linkedin_thumb_blob" width="130" alt="AWS Partner: Technical Accredited" />
+</a>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4780a2f5-bde7-4f06-87b5-727d9d4b226d" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## About Me
