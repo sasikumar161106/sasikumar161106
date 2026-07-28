@@ -57,12 +57,7 @@
 
 ### Amazon Web Services Badges
 
-<a href="https://www.credly.com/badges/4780a2f5-bde7-4f06-87b5-727d9d4b226d" target="_blank">
-  <img src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/linkedin_thumb_blob" width="130" alt="AWS Partner: Technical Accredited" />
-</a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/347bb1f9-9033-4f02-b27f-a2df0e76cea8" target="_blank">
-  <img src="https://images.credly.com/images/cb620644-88e4-4ee7-83a2-d33a6181e4b8/linkedin_thumb_blob" width="130" alt="AWS Partner: Agentic AI Essentials" />
-</a>
+<a href="https://www.credly.com/badges/4780a2f5-bde7-4f06-87b5-727d9d4b226d" target="_blank"><img src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/linkedin_thumb_blob" width="130" alt="AWS Partner: Technical Accredited" /></a><a href="https://www.credly.com/badges/347bb1f9-9033-4f02-b27f-a2df0e76cea8" target="_blank"><img src="https://images.credly.com/images/cb620644-88e4-4ee7-83a2-d33a6181e4b8/linkedin_thumb_blob" width="130" alt="AWS Partner: Agentic AI Essentials" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
