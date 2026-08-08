@@ -184,11 +184,11 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 ## Recent Pull Requests
 
 <!-- PR_SECTION_START -->
-- **[itzzavdhesh/TabTwin]** [fix: API and WebSocket authentication](https://github.com/itzzavdhesh/TabTwin/pull/46) - Merged on 2026-07-22
-- **[itzzavdhesh/TabTwin]** [fix: separate main and app components](https://github.com/itzzavdhesh/TabTwin/pull/45) - Merged on 2026-07-20
-- **[itzzavdhesh/TabTwin]** [fix: add dotenv dependency to load .env file for server configuration](https://github.com/itzzavdhesh/TabTwin/pull/34) - Merged on 2026-07-20
-- **[itzzavdhesh/TabTwin]** [docs: add extension popup build step to README](https://github.com/itzzavdhesh/TabTwin/pull/36) - Merged on 2026-07-19
-- **[itzzavdhesh/TabTwin]** [fix: restrict CORS to allowed origins](https://github.com/itzzavdhesh/TabTwin/pull/47) - Merged on 2026-07-14
+- **[sreerevanth/repopilot]** [docs(sandbox): document GITHUB_TOKEN stripping scope (#9)](https://github.com/sreerevanth/repopilot/pull/90) - Merged on 2026-08-07
+- **[sreerevanth/repopilot]** [style: fix prettier formatting issues across repository](https://github.com/sreerevanth/repopilot/pull/108) - Merged on 2026-08-07
+- **[sreerevanth/repopilot]** [feat(config): add JSON configuration file support (.repopilot.json) (#22)](https://github.com/sreerevanth/repopilot/pull/101) - Merged on 2026-08-07
+- **[sreerevanth/repopilot]** [feat(agent): implement diff-based patch mode to reduce token usage (#20)](https://github.com/sreerevanth/repopilot/pull/99) - Merged on 2026-08-07
+- **[sreerevanth/repopilot]** [feat(tests): add comprehensive unit tests for core modules (#12, #19)](https://github.com/sreerevanth/repopilot/pull/98) - Merged on 2026-08-07
 
 <!-- PR_SECTION_END -->
 
