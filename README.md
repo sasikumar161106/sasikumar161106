@@ -184,11 +184,11 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 ## Recent Pull Requests
 
 <!-- PR_SECTION_START -->
-- **[sreerevanth/repopilot]** [docs(sandbox): document GITHUB_TOKEN stripping scope (#9)](https://github.com/sreerevanth/repopilot/pull/90) - Merged on 2026-08-07
-- **[sreerevanth/repopilot]** [style: fix prettier formatting issues across repository](https://github.com/sreerevanth/repopilot/pull/108) - Merged on 2026-08-07
-- **[sreerevanth/repopilot]** [feat(config): add JSON configuration file support (.repopilot.json) (#22)](https://github.com/sreerevanth/repopilot/pull/101) - Merged on 2026-08-07
-- **[sreerevanth/repopilot]** [feat(agent): implement diff-based patch mode to reduce token usage (#20)](https://github.com/sreerevanth/repopilot/pull/99) - Merged on 2026-08-07
-- **[sreerevanth/repopilot]** [feat(tests): add comprehensive unit tests for core modules (#12, #19)](https://github.com/sreerevanth/repopilot/pull/98) - Merged on 2026-08-07
+- **[itzzavdhesh/TabTwin]** [feat: Add WebSocket reconnection with exponential backoff](https://github.com/itzzavdhesh/TabTwin/pull/109) - Merged on 2026-08-08
+- **[itzzavdhesh/TabTwin]** [feat: Add session token authentication for API and WebSocket endpoints](https://github.com/itzzavdhesh/TabTwin/pull/110) - Merged on 2026-08-08
+- **[sreerevanth/repopilot]** [fix: skip confirmation prompts in CI/CD via --yes flag](https://github.com/sreerevanth/repopilot/pull/184) - Merged on 2026-08-08
+- **[sreerevanth/repopilot]** [Feat/all fixes consolidated](https://github.com/sreerevanth/repopilot/pull/182) - Merged on 2026-08-08
+- **[sreerevanth/repopilot]** [feat: add GitHub Actions integration for automated issue fixing](https://github.com/sreerevanth/repopilot/pull/183) - Merged on 2026-08-08
 
 <!-- PR_SECTION_END -->
 
