@@ -91,7 +91,7 @@ Computer Science undergraduate with hands-on experience in designing and develop
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,dart,html,css,postgres,sqlite,flutter,react,nodejs,express,tensorflow,sklearn,fastapi,tailwind,git,github,firebase,supabase,docker,vercel,gcp,vscode,androidstudio,arduino" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,dart,html,css,postgres,sqlite,flutter,react,nodejs,express,tensorflow,sklearn,fastapi,tailwind,git,github,firebase,supabase,docker,vercel,gcp,vscode,androidstudio,arduino,aws" />
 </a>
 </div>
 
