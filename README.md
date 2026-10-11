@@ -185,11 +185,11 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 ## Recent Pull Requests
 
 <!-- PR_SECTION_START -->
-- **[sreerevanth/repopilot]** [fix: skip confirmation prompts in CI/CD via --yes flag](https://github.com/sreerevanth/repopilot/pull/184) - Merged on 2026-08-08
-- **[sreerevanth/repopilot]** [Feat/all fixes consolidated](https://github.com/sreerevanth/repopilot/pull/182) - Merged on 2026-08-08
-- **[sreerevanth/repopilot]** [feat: add GitHub Actions integration for automated issue fixing](https://github.com/sreerevanth/repopilot/pull/183) - Merged on 2026-08-08
-- **[sreerevanth/repopilot]** [feat: add streaming LLM output for real-time progress](https://github.com/sreerevanth/repopilot/pull/178) - Merged on 2026-08-08
-- **[sreerevanth/repopilot]** [feat: add multi-LLM provider support (OpenAI, Gemini, Ollama)](https://github.com/sreerevanth/repopilot/pull/180) - Merged on 2026-08-08
+- **[Shinraya-Tech-Labs/repopilot]** [fix: skip confirmation prompts in CI/CD via --yes flag](https://github.com/Shinraya-Tech-Labs/repopilot/pull/184) - Merged on 2026-08-08
+- **[Shinraya-Tech-Labs/repopilot]** [Feat/all fixes consolidated](https://github.com/Shinraya-Tech-Labs/repopilot/pull/182) - Merged on 2026-08-08
+- **[Shinraya-Tech-Labs/repopilot]** [feat: add GitHub Actions integration for automated issue fixing](https://github.com/Shinraya-Tech-Labs/repopilot/pull/183) - Merged on 2026-08-08
+- **[Shinraya-Tech-Labs/repopilot]** [feat: add streaming LLM output for real-time progress](https://github.com/Shinraya-Tech-Labs/repopilot/pull/178) - Merged on 2026-08-08
+- **[Shinraya-Tech-Labs/repopilot]** [feat: add multi-LLM provider support (OpenAI, Gemini, Ollama)](https://github.com/Shinraya-Tech-Labs/repopilot/pull/180) - Merged on 2026-08-08
 
 <!-- PR_SECTION_END -->
 
