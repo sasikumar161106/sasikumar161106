@@ -185,11 +185,11 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 ## Recent Pull Requests
 
 <!-- PR_SECTION_START -->
-- **[Shinraya-Tech-Labs/repopilot]** [feat: add multi-LLM provider support (OpenAI, Gemini, Ollama)](https://github.com/Shinraya-Tech-Labs/repopilot/pull/180) - Merged on 2026-08-08
-- **[Shinraya-Tech-Labs/repopilot]** [feat: enhance .gitignore and add secret detection scanner](https://github.com/Shinraya-Tech-Labs/repopilot/pull/179) - Merged on 2026-08-08
-- **[Shinraya-Tech-Labs/repopilot]** [feat: add streaming LLM output for real-time progress](https://github.com/Shinraya-Tech-Labs/repopilot/pull/178) - Merged on 2026-08-08
-- **[Shinraya-Tech-Labs/repopilot]** [feat: add token usage tracking and cost estimation](https://github.com/Shinraya-Tech-Labs/repopilot/pull/185) - Merged on 2026-08-08
-- **[Shinraya-Tech-Labs/repopilot]** [fix: skip confirmation prompts in CI/CD via --yes flag](https://github.com/Shinraya-Tech-Labs/repopilot/pull/184) - Merged on 2026-08-08
+- **[itzzavdhesh/TabTwin]** [fix: restrict CORS to allowed origins](https://github.com/itzzavdhesh/TabTwin/pull/47) - Merged on 2026-07-14
+- **[itzzavdhesh/TabTwin]** [fix: separate main and app components](https://github.com/itzzavdhesh/TabTwin/pull/45) - Merged on 2026-07-20
+- **[itzzavdhesh/TabTwin]** [fix: API and WebSocket authentication](https://github.com/itzzavdhesh/TabTwin/pull/46) - Merged on 2026-07-22
+- **[itzzavdhesh/TabTwin]** [feat: move Claude API call to server-side proxy](https://github.com/itzzavdhesh/TabTwin/pull/44) - Merged on 2026-07-13
+- **[itzzavdhesh/TabTwin]** [fix: landing page tailwind class and guest permissions](https://github.com/itzzavdhesh/TabTwin/pull/43) - Merged on 2026-07-14
 
 <!-- PR_SECTION_END -->
 
