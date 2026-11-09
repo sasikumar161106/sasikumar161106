@@ -185,11 +185,11 @@ An AI agent integrated with GitHub that reviews PRs in real-time, detects bugs, 
 ## Recent Pull Requests
 
 <!-- PR_SECTION_START -->
-- **[itzzavdhesh/TabTwin]** [fix: restrict CORS to allowed origins](https://github.com/itzzavdhesh/TabTwin/pull/47) - Merged on 2026-07-14
-- **[itzzavdhesh/TabTwin]** [fix: separate main and app components](https://github.com/itzzavdhesh/TabTwin/pull/45) - Merged on 2026-07-20
-- **[itzzavdhesh/TabTwin]** [fix: API and WebSocket authentication](https://github.com/itzzavdhesh/TabTwin/pull/46) - Merged on 2026-07-22
-- **[itzzavdhesh/TabTwin]** [feat: move Claude API call to server-side proxy](https://github.com/itzzavdhesh/TabTwin/pull/44) - Merged on 2026-07-13
-- **[itzzavdhesh/TabTwin]** [fix: landing page tailwind class and guest permissions](https://github.com/itzzavdhesh/TabTwin/pull/43) - Merged on 2026-07-14
+- **[Itzzavdheshh/TabTwin]** [fix: restrict CORS to allowed origins](https://github.com/Itzzavdheshh/TabTwin/pull/47) - Merged on 2026-07-14
+- **[Itzzavdheshh/TabTwin]** [fix: separate main and app components](https://github.com/Itzzavdheshh/TabTwin/pull/45) - Merged on 2026-07-20
+- **[Itzzavdheshh/TabTwin]** [fix: API and WebSocket authentication](https://github.com/Itzzavdheshh/TabTwin/pull/46) - Merged on 2026-07-22
+- **[Itzzavdheshh/TabTwin]** [feat: move Claude API call to server-side proxy](https://github.com/Itzzavdheshh/TabTwin/pull/44) - Merged on 2026-07-13
+- **[Itzzavdheshh/TabTwin]** [fix: landing page tailwind class and guest permissions](https://github.com/Itzzavdheshh/TabTwin/pull/43) - Merged on 2026-07-14
 
 <!-- PR_SECTION_END -->
 
